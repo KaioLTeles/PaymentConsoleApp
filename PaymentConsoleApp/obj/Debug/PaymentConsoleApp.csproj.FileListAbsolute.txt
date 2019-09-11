@@ -1,0 +1,7 @@
+C:\Users\kaioteles\source\repos\PaymentConsoleApp\PaymentConsoleApp\bin\Debug\PaymentConsoleApp.exe.config
+C:\Users\kaioteles\source\repos\PaymentConsoleApp\PaymentConsoleApp\bin\Debug\PaymentConsoleApp.exe
+C:\Users\kaioteles\source\repos\PaymentConsoleApp\PaymentConsoleApp\bin\Debug\PaymentConsoleApp.pdb
+C:\Users\kaioteles\source\repos\PaymentConsoleApp\PaymentConsoleApp\obj\Debug\PaymentConsoleApp.csprojAssemblyReference.cache
+C:\Users\kaioteles\source\repos\PaymentConsoleApp\PaymentConsoleApp\obj\Debug\PaymentConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kaioteles\source\repos\PaymentConsoleApp\PaymentConsoleApp\obj\Debug\PaymentConsoleApp.exe
+C:\Users\kaioteles\source\repos\PaymentConsoleApp\PaymentConsoleApp\obj\Debug\PaymentConsoleApp.pdb
